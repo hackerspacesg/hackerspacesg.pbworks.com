@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="http://vs1.pbworks.com/shared/statics/embedded-m-prod-v15015099.css" />  
+<title></title>
+<base target="_top" />
+</head>
+<body class="wikistyle wget">
+<h1>CorkBoard (things that MAY be of interest to HS folks)</h1>
+<br />
+<div id="displaycontent">
+<p>&nbsp;</p>
+<p>Hi all,</p>
+<p>&nbsp;</p>
+<p>(The recent event with the unlocked door has given a bit of new urgency to the HS access system; an urgency that I'm pleased seems to be taken up by several.)</p>
+<p>&nbsp;</p>
+<p>One of the approaches that we explored in this project was to build a system out of a laptop and fingerprint reader and a laptop-controlled relay.&nbsp; Turns out this last item was perhaps the toughest.&nbsp; I had gathered the laptop, and the fingerprint reader, and the power supply for the door electromagent, but the USB-controlled relay defeated us.&nbsp; (Parrallel ports are so easy by comparison.&nbsp; And I think the access system has moved on but this computer control element is something many of us will be interested in.&nbsp; <em><strong>USB relays are useful to control lots of things, from lights to motors to electromagnets.</strong></em>)</p>
+<p>&nbsp;</p>
+<p>Last year I casually mentioned this to Senior Lecturer and Busker at SP, <u><strong>Jolyon Caplin</strong></u>, (jolyonpc@yahoo.com) and despite a very buys schedule he actually pulled this last element together!</p>
+<p>&nbsp;</p>
+<p>He also graciously has agreed to come and give a lesson on how to....</p>
+<p>&nbsp;</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Go from USB to Serial</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Serial to PIC</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp; PIC to parrellel</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp; parrellel to relay control</p>
+<p>&nbsp;</p>
+<p>I also beleive that if Jolyon is asked nicely he will do some busking.&nbsp; For an example of this, please see:</p>
+<p>&nbsp;</p>
+<p><a href="http://www.youtube.com/watch?v=LCdt3GYCOaI">http://www.youtube.com/watch?v=LCdt3GYCOaI</a></p>
+<p>&nbsp;</p>
+<p>Jolyon is a great guy and a real natural for HS, and he has a LOT to teach us!&nbsp; Re timing for the session, Jolyon is up for anything other than Thursday evenings, when he teaches at SP.&nbsp; (Ideally&nbsp;I'd propose it to be Saturday early afternoon so that my boys can learn this stuff too.)&nbsp; So provisionally, how does this Saturday the 30th at 1 p.m. sound?&nbsp; Jolyon has some darling children and we hope they and his lovely wife would join.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Jolyon has computer problems right at the moment, but when he gets up again, perhaps he will comment.&nbsp; Could other interested people also indicate interest?&nbsp; Here's the start of a interested list:</p>
+<p>&nbsp;</p>
+<p><u><strong>Would like to attend</strong></u>:</p>
+<p>John Y, Max Y, Jonathan Y</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+</div>
+</body>
+</html><!--  -->

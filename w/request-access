@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+	<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  
+  <link rel="stylesheet" type="text/css" href="http://vs1.pbworks.com/shared/statics/packed-m-prod-v07998121.css" />
+
+  
+		<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="http://vs1.pbworks.com/shared/statics/ie6-m-prod-v85351277.css" /><![endif]-->
+      
+      
+  
+  
+        	<title>hackerspacesg / Request Access</title>
+</head>
+<body id="body" class="login wget"><table id="container">
+  <tr>
+    <td id="main-content">
+      <div class="content">
+<table class="inner" cellspacing="0" width="700">
+<col />
+<col />
+<tr>
+  <td class="table-col-1">
+    <div class="rnd8">
+    <div class="cnr tl"></div>
+    <div class="cnr tr"></div>
+    <div class="ct">&nbsp;</div>
+  </div>
+ </td>
+ </tr> 
+<tr class="content">
+	<td class="table-col-1 login-ver2">
+  <h1>Request access to <span>hackerspacesg.pbworks.com</span></h1>
+  
+  <table cellspacing="0" width="100%" id="login-panel"><tr>
+  <td width="470">
+	          
+      <div class="form-section form-grid-login login-2 form-ra">
+        <form action="http://hackerspacesg.pbworks.com/w/request-access/submit" method="POST">
+                    <div class="form-section form-grid-login login-2 form-ra">
+            <div class="form-row">
+              <div class="form-cell column-1"><label>Your email address</label></div>
+              <div class="form-cell column-2"><input type="text" class="text" id="request_access_email" name="request_access_email" value="" /></div>
+              <div class="form-cell column-1"><label>Message <span style="font-weight:normal">(optional)</span></label></div>
+              <div class="form-cell column-2">
+                <textarea class="text" id="request_access_message" name="request_access_message"></textarea>
+                <p class="aux">An optional message that will be sent to the administrator of this workspace.</p>
+              </div>
+            </div>
+          
+            <div class="form-row">
+              <div class="form-cell column-1">&nbsp;</div>
+              <div class="form-cell column-2">
+			    <div>Confirm by entering the letter 
+				<span id="request_access_captcha">y</span> here
+				  <input type="hidden" id="captcha_input_check"  name="captcha_input_check" value="y">
+				  <input type="text" id="captcha_input"  name="captcha_input" style="width:16px;" maxlength="1"/>
+				</div>
+				<div></div>
+                <div>&nbsp;</div>
+                <input type="submit" id="request_access_submit" value="Send to administrator" class="primarybutton" />
+                <p class="aux">You will be notified by email when your request is approved.</p>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+        </td>
+  <td id="login-right-panel" style="color:#666">
+
+        <div style="padding:1em; background: #f4f4f4; -moz-border-radius: 6px;text-align:center" class="secondarypagetoolbar">
+          To get in touch<br/>
+      <a href="http://hackerspacesg.pbworks.com/contact.php">Contact the workspace owner</a>
+        </div>
+      </td>
+  </tr></table>
+  </td>
+</tr>
+
+<tr>
+  <td class="table-col-1">
+    <div class="rnd8">
+    <div class="cnr bl"></div>
+    <div class="cnr br"></div>
+    <div class="ct">&nbsp;</div>
+  </div>
+ </td>
+ </tr> 
+</table>
+<script type="text/javascript">
+  var _qevents = [{ qacct : "p-16CGFkiSpdTEU" }];
+  (function() {
+   var elem = document.createElement('script');
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge")
+               + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<noscript><div style="display: none;"><img src="http://pixel.quantserve.com/pixel/p-16CGFkiSpdTEU.gif" height="1" width="1" alt="Quantcast"/></div></noscript><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2694787-12");
+pageTracker._setDomainName(".pbworks.com");
+if (document.cookie.match(/hm=/)) {
+  pageTracker._setVar('authenticated');
+}
+pageTracker._setAllowHash(false);
+pageTracker._trackPageview();
+</script>
+<!--  -->

@@ -1,0 +1,174 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="http://vs1.pbworks.com/shared/statics/embedded-m-prod-v15015099.css" />  
+<title></title>
+<base target="_top" />
+</head>
+<body class="wikistyle wget">
+<h1>Project: HackDo</h1>
+<br />
+<div id="displaycontent">
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;font-size:20px;line-height:25px;font-weight:bold;">HackDo</span></p>
+<p>&nbsp;</p>
+<h2>Overview</h2>
+<p>This project is intended to standardize membership management.&nbsp; It is based on the following data:</p>
+<ul>
+<li>Membership dues and fees</li>
+<li>Automate accounting and finances</li>
+</ul>
+<p>&nbsp;</p>
+<h2>Objectives</h2>
+<p>This project should have the following impact on our business:</p>
+<ul>
+<li>To make it easier and more efficient to record incoming membership payments (and other dues) for the Hackerspace.</li>
+<li>To make it easier for members to check their membership (and other contract) status(es) and payment history</li>
+<li>Overall, it should also reduce the hassle when it comes to accounting for money issues in the hackerspace.</li>
+</ul>
+<p>&nbsp;</p>
+<h2>General workflow</h2>
+<ul>
+<li>
+<h3>Members</h3>
+</li>
+<ul>
+<li>
+<h4>Checking status and payment history</h4>
+</li>
+<ol>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Member logs in</span></p>
+</li>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Member gets dashboard view of </span></p>
+</li>
+<ol>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">current member status (Active, Lapsed, Terminated)&nbsp;</span></p>
+</li>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Membership (and other contract) history&nbsp;</span></p>
+</li>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Payment history</span></p>
+</li>
+</ol></ol>
+<li>
+<h4><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Making new Payments&nbsp;</span></h4>
+</li>
+<ul>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Member logs in</span></p>
+</li>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Member creates new payment record with details of payment (eg. amount, date paid, purpose of payment) and submits</span></p>
+</li>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">System queues new payment record for approval by an admin</span></p>
+</li>
+</ul>
+<li>
+<h4><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Viewing financial reports for hackerspace&nbsp;</span></h4>
+</li>
+<ul>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Member logs in</span></p>
+</li>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Member is able to call up reports on hackerspace's</span></p>
+</li>
+<ul>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">income</span></p>
+</li>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">expenditure</span></p>
+</li>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">financial health</span></p>
+</li>
+</ul>
+</ul>
+</ul>
+</ul>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">&nbsp;</span></p>
+<ul>
+<li>
+<h3><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Admin&nbsp;</span></h3>
+</li>
+<ul>
+<li>
+<h4><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Checking status of members and other contracts&nbsp;</span></h4>
+</li>
+<ul>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Admin logs in</span></p>
+</li>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Admin gets dashboard view of stats for entire system, eg.</span></p>
+</li>
+<ul>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Number of currently active/lapsed/pending members</span></p>
+</li>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Number of currently active/lapsed contracts of other types</span></p>
+</li>
+</ul>
+</ul>
+<li>
+<h4><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Approving payment records&nbsp;</span></h4>
+</li>
+<ul>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Admin logs in</span></p>
+</li>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Admin gets to view all payment records that are pending approval</span></p>
+</li>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Admin matches submitted payment records against bank statement</span></p>
+</li>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Admin approves each payment record that has an equivalent entry in the bank statement</span></p>
+</li>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Only approved payment records are taken into account when producing statistics and reports</span></p>
+</li>
+</ul>
+<li>
+<h4><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Sending billing reminders&nbsp;</span></h4>
+</li>
+<ul>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Admin logs in</span></p>
+</li>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">Admin can choose to send billing reminders to entire membership, or to just those who have lapsed</span></p>
+</li>
+<li>
+<p><span style="font-family:'Segoe UI', 'Lucida Grande', Arial, sans-serif;line-height:16px;">System sends the mails accordingly&nbsp;</span></p>
+</li>
+</ul>
+</ul>
+</ul>
+<p>&nbsp;</p>
+<h2>Team</h2>
+<ul>
+<li>Ruiwen, Project Manager</li>
+<li>Chern Jie</li>
+<li>Tay Ray Chuan</li>
+<li>Lim Kim Yong&nbsp;</li>
+<li>Xavisaurus&nbsp;</li>
+<li>Kenny Shen&nbsp;</li>
+<li>more...&nbsp;</li>
+</ul>
+<p>&nbsp;</p>
+<h2>Tasks/Milestones</h2>
+<ul>
+<li><a href="https://www.pivotaltracker.com/projects/155751">https://www.pivotaltracker.com/projects/155751</a></li>
+</ul>
+</div>
+</body>
+</html><!--  -->

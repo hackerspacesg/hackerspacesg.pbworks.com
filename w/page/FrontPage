@@ -1,0 +1,729 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+	<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  
+  <link rel="stylesheet" type="text/css" href="http://vs1.pbworks.com/shared/statics/packed-m-prod-v07998121.css" />
+
+  
+		<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="http://vs1.pbworks.com/shared/statics/ie6-m-prod-v85351277.css" /><![endif]-->
+      
+      
+  
+  <link rel="canonical" href="FrontPage" />
+            <link rel="alternate" title="hackerspacesg Recent Changes" href="http://hackerspacesg.pbworks.com/rss.xml" type="application/rss+xml" />
+      	<title>hackerspacesg / FrontPage</title>
+</head>
+<body class=" has-ws-nav wikipage wget">
+<!-- network bar -->
+<div id="network-bar" class="network-bar clearfix standalone">
+  <ul id="network-bar-breadcrumbs">
+        <li class="last" id="network-crumb-wiki"><a href="../../index.html" id="network-crumb-wiki-link">hackerspacesg</a></li>
+  </ul>
+
+      <!-- user bar -->
+    <div id="user-bar" class="user-bar "><div class="user-bar-left"><div class="user-bar-right"><p><a href="../session/login">log in</a><a id="network-bar-help" class="network-bar-help" href="mailto:support@pbworks.com">help</a></p></div></div></div>
+  
+  
+      <div id="network-bar-signup" class="network-bar-section">
+      <span class="iconbutton upgrade">
+        <a class="network-bar-signup-link" href="https://plans.pbworks.com/signup/basic20?utm_campaign=mcgetyourown&utm_source=personal" class="iconbutton upgrade">Get a free wiki</a>
+        &nbsp;|&nbsp;
+        <a class="network-bar-signup-link" href="http://pbworks.com/signup?utm_campaign=freebiz&utm_source=personal" class="iconbutton upgrade">Try our free business product</a>
+      </span>
+    </div>
+  
+</div>
+
+    <div id="ws-nav" class="chrome-content">
+          <ul class="nav-tabs active-tab-wiki first-tab-active">
+        <li id="ws-nav-wiki" class="active"><a href="FrontPage">Wiki</a></li><li id="ws-nav-browse" class="last"><a href="http://hackerspacesg.pbworks.com/w/browse/">Pages &amp; Files</a></li>      </ul>
+    
+    <div id="ws-nav-search">
+      <input type="text" placeholder="Search this workspace" class="inputtext text" name="SearchFor" id="input-search"  tabindex="1" title="Search" autocomplete="off"/>
+    </div>
+  </div>
+<div id="wrapper">
+<table id="container" cellspacing="0">
+<tr>
+  <td id="main-content">
+        
+    <div id="page">
+      <div id="page-toolbar">
+        <div id="page-toolbar-inner">
+          <div id="view-tab" class="active">View</div>
+                      <div id="edit-tab" class="logintoedit"><a href="javascript:void(0);">Edit</a></div>
+          					<div id="expand-collapse-page"><a id="expand-collapse-page-link" href="javascript:void(0);"></a></div>
+        </div>
+      </div>
+            <div id="edit-button-bubble" style="display:none" class="bubble">
+        <div id="edit-button-arrow"></div>
+        <a class="close" href="FrontPage#"></a>
+        <table cellspacing="0"><tr class="header"><td class="left"></td><td class="right"></td></tr><tr class="content"><td class="left"></td><td class="right">
+              <div class="inner-content">
+                              <div class="top">
+                                  To edit this page,<br/>
+                  <a href="http://hackerspacesg.pbworks.com/request_access.php">request access</a> to the workspace.                </div>
+                <p>Already have an account? <a href="../session/login?edit=1">Log in</a>!</p>
+                                            </div>
+            </td></tr></table>
+      </div>
+      
+      <table cellspacing="0" id="inner-page">
+        <tr>
+          <td id="page-col-1" width="4">&nbsp;</td>
+          <td id="page-col-2">
+                          <div id="wikicontent">
+  <h1 class="pagetitle box">
+      FrontPage
+  </h1>
+    <div class="page-history">
+      <a href="../page-revisions/13758491/FrontPage" class="iconbutton historyicon">
+      Page history
+    </a>
+        last edited
+    by <span id="page-editor"><a href="javascript:alert('Please join this workspace to see more details about this user.');" class="iconbutton usericon usercard_trigger">Meng Weng Wong</a></span> <span id="page-history-ago">9 years, 2 months ago</span>
+    <div id="new-revision-available"></div>
+  </div>
+  
+  <div id="lockinfo">
+    </div>
+
+    <div id="wikipage" class="box wikistyle">
+
+    <div style="" id="wikipage-inner">
+    <h1>HackerspaceSG: The Zouk of Geekdom</h1>
+<p>Think.Hack.Collaborate {To the sound of keypresses &amp;&nbsp;knobs}</p>
+<p>&nbsp;</p>
+<p>A place for creative technologists in Singapore.&nbsp; And their hangers-on.</p>
+<p>&nbsp;</p>
+<p><iframe src="http://docs.google.com/present/embed?id=df8r28mj_4723sw9gr7g" width="410" height="342"></iframe></p>
+<p>&nbsp;</p>
+<p><iframe src="http://docs.google.com/present/embed?id=dc6kw96h_2g8khrr8f" frameborder="0" width="410" height="342"></iframe></p>
+<p>&nbsp;</p>
+<h2>&nbsp;</h2>
+<h2>Now in handy <a href="../../HackerspaceSGPitch">PDF form</a>!</h2>
+<p>&nbsp;</p>
+<h2><strong>What's a Hackerspace?</strong></h2>
+<p>Well, us geeks need some place to call our own. To hang out, geek out, or to just chill out. To hack on whatever strikes our fancy, without worry that the Starbucks/McDonald's/coffeeshop employee is going to start giving us dirty looks after noticing our last cup of coffee was bought 6 hours ago. It's somewhere to call ~ (or, $HOME, if that's how you roll).</p>
+<p>&nbsp;</p>
+<h2>What's NOT a Hackerspace?</h2>
+<p>A hackerspace is not a place to do anything illegal from the premises. A hackerspace is not a food and beverage operation. A hackerspace is not an incubation center.</p>
+<p>&nbsp;</p>
+<h2><strong>That's a Hackerspace.</strong></h2>
+<h2>&nbsp;</h2>
+<p>With a Hackerspace, you're never too far from a fellow Hacker. Fellow Hackers are useful for: 1) chasing down bugs. 2) bouncing ideas (and rubber balls) off. 3) fetching more caffeine. Better yet, if you're a technical project looking for a team, where better place to go than where all the other like-minded, geeky people are?</p>
+<p>&nbsp;</p>
+<h2>Why do we need a Hackerspace?</h2>
+<p>&nbsp;</p>
+<p>Because us geeks are humans, before Hackers. While working on achieving that perfect LCD (or CRT) tan might be the hottest thing this summer, the keyboard and mice really aren't that cool to hang around with 24/7. They don't talk back, they don't review your code, and they can't catch the latest episode of <a href="http://the-big-bang-theory.com/"><em>The Big Bang Theory</em></a> with you. Contact with other Humans in meatspace is pretty rewarding as well (see: <em>Fellow Hackers are useful for:</em>, above). Besides, the only way you're going to Level Up that Geek Cred is by hanging around others like you. Ever played the Game of Life? Stay lonely and die, my friend.</p>
+<p>&nbsp;</p>
+<p>The Hackerspace is a place where geeks are free to hack on and experiment with whatever they want. Even if it ends up being <a href="http://www.geekologie.com/2009/05/ive_seen_it_all_now_a_twitteri.php">completely pointless</a>. Hackerspace.sg is the focus of geek activity, and the heart of the Singaporean Geek Culture. Funds accummulated in the running of the Hackerspace could well be channeled back into the community by acquiring further <a href="http://thinkgeek.com"><span style="text-decoration:line-through;">toys</span></a> equipment to share and hack on.</p>
+<p>&nbsp;</p>
+<h2>Why is HackerspaceSG?</h2>
+<p>&nbsp;</p>
+<p>70A Bussorah Street</p>
+<p>It's a 5mins walk from Bugis MRT</p>
+<p>&nbsp;</p>
+<p><iframe src="http://maps.google.com.sg/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=70a+bussorah+street&amp;sll=1.359,103.818&amp;sspn=0.249182,0.441513&amp;ie=UTF8&amp;hq=&amp;hnear=70A+Bussorah+St,+199483&amp;z=16&amp;ll=1.30096,103.85996&amp;output=embed" scrolling="no" width="425" height="350"></iframe></p>
+<p><small><a style="color:#0000ff;text-align:left;" href="http://maps.google.com.sg/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=70a+bussorah+street&amp;sll=1.359,103.818&amp;sspn=0.249182,0.441513&amp;ie=UTF8&amp;hq=&amp;hnear=70A+Bussorah+St,+199483&amp;z=16&amp;ll=1.30096,103.85996">View Larger Map</a></small></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>What now, Sherlock?</h2>
+<p>&nbsp;</p>
+<p>What would you like to see in a Singaporean Hackerspace? Do you know anyone who can contribute anything? A venue? Cash? Resources?</p>
+<p>&nbsp;</p>
+<p>Well, tell us (you know the drill)!</p>
+<p>&nbsp;</p>
+<pre>$ cat /dev/brain &gt; <a href="../../HackerspaceSGIdeas">HackerspaceSGIdeas</a>
+$ cat /dev/brain &gt; <a href="../../HackerspaceSGProjects">HackerspaceSGProjects</a>
+</pre>
+<p>&nbsp;</p>
+<p><em>Oh, and if you're feeling generous.. you could also</em> <a href="../../HowToPledge"><em>pledge a donation to HackerspaceSG</em></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+    </div>
+  
+  </div>
+
+  </div>
+
+  <div id="wikiedit" style="display:none;">
+        	<div id="editor-panel" class="box">
+  <h1 id="editTitle" class="pagetitle ellipses">FrontPage</h1>
+      
+    <table style="table-layout:fixed; width:100%" id="edit-panel">
+      <col/>
+      <col style="width:240px"/>
+      <tr><td>
+      <form method="post" action="../../FrontPage" id="editwikipage"><input type="hidden" name="process" value="edit_page" /><div id="editframe"></div></form>
+      </td>
+      <td>
+      <div id="editor-column" style="margin-left:12px;" class="thingbar">
+			  <div id="edit-tools">
+					     <h4>Page Tools</h4>
+                    <div class="editor-module">
+      <div class="header">
+        <h3>Insert links</h3>
+        <p class="aux">Insert links to other pages or uploaded files.</p>
+      </div>
+      <div class="editor-module-tabs">
+        <a href="FrontPage#" class="active" id="linkselectab-pages">Pages</a>
+        <a href="FrontPage#" id="linkselectab-images">Images and files</a>
+      </div>
+  
+      <div class="content">
+          <div style="display:none" id="thingbar-pages">
+            <div style="border-bottom:1px dotted #bbb; font-size: 10px; padding-bottom: 0.5em; margin-bottom: 0.5em;"><a href="javascript:void(0);" onmousedown="insert_newlink_into_editor(); return false">Insert a link to a new page</a></div>
+            <ol id="thingbarpages"><li><div align="center"><span id="thingbarLoadIcon"></span> Loading...</div></li></ol>
+          </div>
+          <div style="display:none;" id="thingbar-images">
+                            <ol id="thingbarfiles"> <li id="thingbar-images-noimages">No images or files uploaded yet.</li>
+</ol>
+			        <div style="border-top:1px dotted #bbb; font-size: 10px; padding-top: 0.5em; margin-top: 0.5em;"><a href="javascript:void(0);" id="thingbar-url-link">Insert image from URL</a></div>
+          </div>
+	    </div>
+    </div>
+			  </div>
+        <p id="editor-tip" class="aux">
+            <strong>Tip:</strong> To turn text into a link, highlight the text, then click on a page or file from the list above.
+        </p>
+		  </div>
+
+	</td>
+</tr>
+</table> 
+</div>
+  </div>
+
+  <style> div#comments .comment { margin-bottom:5px; } div#comments .content p { margin-bottom:5px; }  </style><div id="comments" class="box">
+<div class="comments-header">
+  <div class="corner4px top"><div class="right"></div><div class="left"></div></div>
+  <h3>
+    Comments (<span id="comments-count">20</span>)
+      </h3>
+  <a name="comments"></a>
+  <div class="corner4px bot"><div class="right"></div><div class="left"></div></div>
+</div>
+      <div class="comment" id="commentnum1251923124"><a name="comment1251923124"></a><a name="cr1251923124"></a>
+    <div class="header">
+      <div class="comment-picture">
+        <img src="../../uimg/bread.png" alt=""/>
+      </div>
+
+      <h4><a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">icedwater</a> said</h4>
+      <p>at 4:25 am on Sep 3, 2009<br/>
+      			      </p>
+    </div>
+    <div class="content">
+      <p>Should the venue be central? Can it be in the 'suburbs', say, Bukit Timah? :P</p>
+    </div>
+  </div>
+
+      <div class="comment" id="commentnum1251945748"><a name="comment1251945748"></a><a name="cr1251945748"></a>
+    <div class="header">
+      <div class="comment-picture">
+        <img src="../../uimg/bread.png" alt=""/>
+      </div>
+
+      <h4><a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Ruiwen</a> said</h4>
+      <p>at 10:42 am on Sep 3, 2009<br/>
+      			      </p>
+    </div>
+    <div class="content">
+      <p>Do add additional ideas and comments into the HackerspaceSGIdeas page</p>
+    </div>
+  </div>
+
+      <div class="comment" id="commentnum1251948229"><a name="comment1251948229"></a><a name="cr1251948229"></a>
+    <div class="header">
+      <div class="comment-picture">
+        <img src="../../uimg/bread.png" alt=""/>
+      </div>
+
+      <h4><a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">kenny</a> said</h4>
+      <p>at 11:23 am on Sep 3, 2009<br/>
+      			      </p>
+    </div>
+    <div class="content">
+      <p>suburbs should be cool, bring it underground</p>
+    </div>
+  </div>
+
+      <div class="comment" id="commentnum1252068087"><a name="comment1252068087"></a><a name="cr1252068087"></a>
+    <div class="header">
+      <div class="comment-picture">
+        <img src="../../uimg/bread.png" alt=""/>
+      </div>
+
+      <h4><a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Muhammad Nuzaihan</a> said</h4>
+      <p>at 8:41 pm on Sep 4, 2009<br/>
+      			      </p>
+    </div>
+    <div class="content">
+      <p>i would rather have a more unique hackerspace experience where the ambience is truly Singaporean - Coffee Shops and also halal food is served for our muslim fellows. (Note: Muslims can be an indian, caucasian or chinese.. and not exclusive to malays only).<br />
+<br />
+Think Toastbox with computers.</p>
+    </div>
+  </div>
+
+      <div class="comment" id="commentnum1252068654"><a name="comment1252068654"></a><a name="cr1252068654"></a>
+    <div class="header">
+      <div class="comment-picture">
+        <img src="../../uimg/bread.png" alt=""/>
+      </div>
+
+      <h4><a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Justin Lee</a> said</h4>
+      <p>at 8:50 pm on Sep 4, 2009<br/>
+      			      </p>
+    </div>
+    <div class="content">
+      <p>I'm sorry but we're not planning to become a food and beverage place. I don't think we have the experience or the time to go into a full time food and beverage hackerspace. But thanks for the feedback. We all miss geek terminal.</p>
+    </div>
+  </div>
+
+      <div class="comment" id="commentnum1252071071"><a name="comment1252071071"></a><a name="cr1252071071"></a>
+    <div class="header">
+      <div class="comment-picture">
+        <img src="../../uimg/bread.png" alt=""/>
+      </div>
+
+      <h4><a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Muhammad Nuzaihan</a> said</h4>
+      <p>at 9:31 pm on Sep 4, 2009<br/>
+      			      </p>
+    </div>
+    <div class="content">
+      <p>Geek terminal serves only non-halal food plus it's pricey. There is no point for muslims to go there except for drinks. I may have looked at an idea of a food &amp;beverage place and i was mistaken.<br />
+<br />
+Just an idea of a location to be next to a nice 24hour eatery so you don't need to bother about food and beverages. Personally, i don't care much about gourmet food but just to fill my stomach... <br />
+<br />
+If it is another geek-terminal i'd rather just not bother. To call it a hacker hangout is an understatement. ;)</p>
+    </div>
+  </div>
+
+      <div class="comment" id="commentnum1252077247"><a name="comment1252077247"></a><a name="cr1252077247"></a>
+    <div class="header">
+      <div class="comment-picture">
+        <img src="../../uimg/bread.png" alt=""/>
+      </div>
+
+      <h4><a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Justin Lee</a> said</h4>
+      <p>at 11:14 pm on Sep 4, 2009<br/>
+      			      </p>
+    </div>
+    <div class="content">
+      <p>Yeap. We are definitely looking into that and looking at some locations. if you can suggest locations feel free to update the wiki and add in a possible locations section and make a list. It'll help us greatly when we're finding out the prices of rents from places.</p>
+    </div>
+  </div>
+
+      <div class="comment" id="commentnum1252082926"><a name="comment1252082926"></a><a name="cr1252082926"></a>
+    <div class="header">
+      <div class="comment-picture">
+        <img src="../../uimg/bread.png" alt=""/>
+      </div>
+
+      <h4><a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Leong Hean Hong</a> said</h4>
+      <p>at 12:48 am on Sep 5, 2009<br/>
+      			      </p>
+    </div>
+    <div class="content">
+      <p>Currently rental price it the top concern. Things like location come second. <br />
+<br />
+When it comes to location, I agree with Muhammad Nuzaihan. It is preferable to find a place near 24hr eatery, which also serve halal food.</p>
+    </div>
+  </div>
+
+      <div class="comment" id="commentnum1252090609"><a name="comment1252090609"></a><a name="cr1252090609"></a>
+    <div class="header">
+      <div class="comment-picture">
+        <img src="../../uimg/bread.png" alt=""/>
+      </div>
+
+      <h4><a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Muhammad Nuzaihan</a> said</h4>
+      <p>at 2:56 am on Sep 5, 2009<br/>
+      			      </p>
+    </div>
+    <div class="content">
+      <p>However we need to take note of any legal issues that we might need to look at. Having a meeting place which is temporary (such as McD,Starbucks) do not require a license (societies Act) but looking at having a permanent location we might need to be registered under the non-profit organisation under societies act but i might be wrong but it's worth to enquire about it so as to not have issues with the law.<br />
+<br />
+Even businesses need to be registered if they need an office.</p>
+    </div>
+  </div>
+
+      <div class="comment" id="commentnum1252090689"><a name="comment1252090689"></a><a name="cr1252090689"></a>
+    <div class="header">
+      <div class="comment-picture">
+        <img src="../../uimg/bread.png" alt=""/>
+      </div>
+
+      <h4><a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Murphy Tok</a> said</h4>
+      <p>at 2:58 am on Sep 5, 2009<br/>
+      			      </p>
+    </div>
+    <div class="content">
+      <p>F&amp;B ??!!<br />
+<br />
+Come on guys, this is HackSpace you're taking about~<br />
+<br />
+Just toss a few Delivery Menus (Mac &amp; PizzaHut &amp; such) lotsa caffinated drinks and there you go. </p>
+    </div>
+  </div>
+
+      <div class="comment" id="commentnum1252091646"><a name="comment1252091646"></a><a name="cr1252091646"></a>
+    <div class="header">
+      <div class="comment-picture">
+        <img src="../../uimg/bread.png" alt=""/>
+      </div>
+
+      <h4><a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Murphy Tok</a> said</h4>
+      <p>at 3:14 am on Sep 5, 2009<br/>
+      			      </p>
+    </div>
+    <div class="content">
+      <p>What's needed is to determine, what exactly do you guys thinks that a HackerSpace should be. <br />
+<br />
+It's not just someplace with wireless network and drinks, that we have starbucks, if you need beer to go with, feel free to find any pubs to negotiate a special geek's night out stuff...<br />
+<br />
+Don't just start another project cause you can, start one only when you see the need.<br />
+<br />
+Soldering Iron, PCB test board, EPROM chips, batteries, and such.... given the above and your laptop with an RS232 connections, if you do feels excited, then join in the club, else, join the various user groups in SG for discussions and consultancy issue, FOSA for OpenSource and Biz integration...<br />
+<br />
+Operating and maintenance of a gathering group event such as HackSpace is both time and money consuming.....<br />
+<br />
+Not bashing here, just wanna make sure that we're not going to waste this much efford from all participating into something  that's gonna run for only a few months.....</p>
+    </div>
+  </div>
+
+      <div class="comment" id="commentnum1252092640"><a name="comment1252092640"></a><a name="cr1252092640"></a>
+    <div class="header">
+      <div class="comment-picture">
+        <img src="../../uimg/bread.png" alt=""/>
+      </div>
+
+      <h4><a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Muhammad Nuzaihan</a> said</h4>
+      <p>at 3:30 am on Sep 5, 2009<br/>
+      			      </p>
+    </div>
+    <div class="content">
+      <p>Agreed. Thus there might be a need to comply with the law if we were to have a permanent venue. I've been to 2600 in singapore, but it was nobody in it, probably one or two guys.<br />
+<br />
+Perhaps we should open it up to be more generic for 2600 or defcon singapore meetups too as the venue as well as it is very related to what hackerspace is about.<br />
+<br />
+But it's not a F&amp;B establishment, it's just a space for us to do our work, which i feel it would be a good place for jellies (<a href="http://www.workatjelly.com/)" rel="nofollow">http://www.workatjelly.com/)</a> to meet up.<br />
+<br />
+Of course if we have a 24/7 venue we need to replenish ourselves with a nearby eatery which operates 24/7, but if you're opting for deliveries... i don't know... but let's open up for choices, nearby 24/7 eateries and you can have deliveries.<br />
+<br />
+But the main standing issue is whether we need a license for a venue (as a society) so that we will not be charged for illegal gathering. To be honest, i don't like the law, but still i don't want to get into trouble.</p>
+    </div>
+  </div>
+
+      <div class="comment" id="commentnum1252116060"><a name="comment1252116060"></a><a name="cr1252116060"></a>
+    <div class="header">
+      <div class="comment-picture">
+        <img src="../../uimg/bread.png" alt=""/>
+      </div>
+
+      <h4><a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Justin Lee</a> said</h4>
+      <p>at 10:01 am on Sep 5, 2009<br/>
+      			      </p>
+    </div>
+    <div class="content">
+      <p>@Muhammad Nuzaihan: Thanks for all that comments. We will look into all the legal issues too in time to come. We *might* incorporate a company and running this like a business in order to comply with the law. Or register as a non-profit organization. Or something else altogether. If anyone knows more about this, please feel free to leave a comment or edit the wiki.<br />
+<br />
+@Murphy Tok: Thanks for all the comments. Keep them coming in and add more of  your concerns on the wiki. We will make sure we address each and every concern and issue there is and we can try to come up with a solution together. Your experience is valuable to the progress and realization of this hackerspace.<br />
+<br />
+Thanks guys! Keep them coming in.</p>
+    </div>
+  </div>
+
+      <div class="comment" id="commentnum1253298516"><a name="comment1253298516"></a><a name="cr1253298516"></a>
+    <div class="header">
+      <div class="comment-picture">
+        <img src="../../uimg/bread.png" alt=""/>
+      </div>
+
+      <h4><a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">picochu</a> said</h4>
+      <p>at 2:28 am on Sep 19, 2009<br/>
+      			      </p>
+    </div>
+    <div class="content">
+      <p>Should be written as :<br />
+<br />
+$ cat /dev/brain | grep Ideas &gt; HackerspaceSGIdeas<br />
+$ cat /dev/brain | grep Projects &gt; HackerspaceSGProjects</p>
+    </div>
+  </div>
+
+      <div class="comment" id="commentnum1253583978"><a name="comment1253583978"></a><a name="cr1253583978"></a>
+    <div class="header">
+      <div class="comment-picture">
+        <img src="../../uimg/bread.png" alt=""/>
+      </div>
+
+      <h4><a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Wenhan</a> said</h4>
+      <p>at 9:46 am on Sep 22, 2009<br/>
+      			      </p>
+    </div>
+    <div class="content">
+      <p>Justin asked to to add my thoughts so I will add them here.<br />
+<br />
+Main Value: I am a very spartan person so main things I will  need are power and internet access. Drinks can be provided via a vending machine and maybe so small snacks from a vending machine too. I think vending machines are probably the better way to go as it cuts down on man power cost. As for the furniture, maybe a few tables for serious working and a few sofas for chit chat etc.<br />
+<br />
+Community: Another thing I would like is a check in/check out system. That will increase the community feel and if I can check who is there, it will probably increase the chances that I will go there.<br />
+<br />
+Location: Somewhere central but not too exp. 5-10 min walk from an MRT is fine.<br />
+Competition: National library building in Bugis, coffee shops with wireless@sg AND power plugs, LAN shops</p>
+    </div>
+  </div>
+
+      <div class="comment" id="commentnum1255063631"><a name="comment1255063631"></a><a name="cr1255063631"></a>
+    <div class="header">
+      <div class="comment-picture">
+        <img src="http://files.pbworks.com/userimage/f167c56ab4b87d8f6db0561ae79757d35a95b6bf/yes/48x48/1420494858/" alt=""/>
+      </div>
+
+      <h4><a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Sausheong</a> said</h4>
+      <p>at 12:47 pm on Oct 9, 2009<br/>
+      			      </p>
+    </div>
+    <div class="content">
+      <p>Thks Meng for the mail. I like the concept, like the membership levels, like the location (though never been there but from map its smack in middle of town) but the membership fees are a bit high. If I were still solo'ing and on my own I prob won't mind the cost of a membership (ie $128) for the privilege of having a hotdesk (if only to have a spot in town) tho' it seems hotdesking is actually $256.<br />
+<br />
+But since I *do* have an office now, hotdesking is redundant for me and just having bragging rights to plonk on hackspace sofa is a too rich for me.<br />
+<br />
+This is personal opinion, I do appreciate the community efforts so far, very admirable but the pragmatic me says I can get 'hotdesk' plus books in National Library, similar in Starbucks/McD etc. Value of hackerspace is community there but price is too much for struggling entrepreneurs.</p>
+    </div>
+  </div>
+
+      <div class="comment" id="commentnum1255671293"><a name="comment1255671293"></a><a name="cr1255671293"></a>
+    <div class="header">
+      <div class="comment-picture">
+        <img src="http://files.pbworks.com/userimage/6ebfe5f2f1f1f418fb93f72f84d3d9e22eb5d15a/yes/48x48/1560548556/" alt=""/>
+      </div>
+
+      <h4><a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">iantimothy</a> said</h4>
+      <p>at 1:34 pm on Oct 16, 2009<br/>
+      			      </p>
+    </div>
+    <div class="content">
+      <p>Hi,<br />
+I love this idea and would love to pledge support as a member.  However, (you just knew there was a however), I'm currently working and won't be using the space most of the week (i.e. Mon-Fri).  Even if I do come and use the space, I don't foresee needing to leave stuff there.<br />
+I would suggest another tier of membership between trial and regular member for individuals like me.  Consider it non-peak membership (or maybe actually, in this regard, weekends are actually the peak period), peak-membership.  <br />
+This new membership tier will be:<br />
+Hang out on the sofas. Use the workbench. 24 Hour access on weekends, weekdays after 6.  Cost is $60 a month.  Clear up after you leave.  Any shit left behind is considered donation.</p>
+    </div>
+  </div>
+
+      <div class="comment" id="commentnum1255671456"><a name="comment1255671456"></a><a name="cr1255671456"></a>
+    <div class="header">
+      <div class="comment-picture">
+        <img src="http://files.pbworks.com/userimage/6ebfe5f2f1f1f418fb93f72f84d3d9e22eb5d15a/yes/48x48/1560548556/" alt=""/>
+      </div>
+
+      <h4><a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">iantimothy</a> said</h4>
+      <p>at 1:37 pm on Oct 16, 2009<br/>
+      			      </p>
+    </div>
+    <div class="content">
+      <p>On another note, I'm guessing it might be hard to enforce the only after 6 on weekdays rule.  It would probably have to be based on an honor system or metered system.  For example, if records shows you're actually spending more than X number of hours on weekdays, then, upgrade is a must.  Or you buy beer for everyone each time.</p>
+    </div>
+  </div>
+
+      <div class="comment" id="commentnum1256399669"><a name="comment1256399669"></a><a name="cr1256399669"></a>
+    <div class="header">
+      <div class="comment-picture">
+        <img src="../../uimg/bread.png" alt=""/>
+      </div>
+
+      <h4><a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Meng Weng Wong</a> said</h4>
+      <p>at 11:54 pm on Oct 24, 2009<br/>
+      			      </p>
+    </div>
+    <div class="content">
+      <p>if you want to take a desk on weekends, go ahead and sign up for a regular or youth rate, and we'll re-evaluate after six months.  we're in the fuzzy front end right now anyway so we'll see how things evolve, this is just a base case.  we'll make it work one way or another.<br />
+<br />
+and do remember to pledge publicly on the web page.<br />
+<br />
+btw, hello to all eChelon guys from the e27 event today.</p>
+    </div>
+  </div>
+
+      <div class="comment" id="commentnum1260897421"><a name="comment1260897421"></a><a name="cr1260897421"></a>
+    <div class="header">
+      <div class="comment-picture">
+        <img src="http://files.pbworks.com/userimage/192d95851c00258772d3320d98164fe05ffd635c/yes/48x48/1447979985/" alt=""/>
+      </div>
+
+      <h4><a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Eric</a> said</h4>
+      <p>at 1:17 am on Dec 16, 2009<br/>
+      			      </p>
+    </div>
+    <div class="content">
+      <p>LOL, I was searching for hacking something and found this website. Awesome. I'm more of a supporter than a hacker here so please take me as a IT idiot, I don't mind. What I might do for this community is that I can find you guys funds in return for honest work and contributions. So something you guys might consider to get funds for this community. </p>
+    </div>
+  </div>
+
+  <p id="comments-nopermission">You don't have permission to comment on this page.</p>
+</div>
+</div>
+
+  <div id="page-bottom-toolbar">
+  <div class="content box">
+    <a href="13758491/FrontPage?mode=embedded" rel="nofollow" class="iconbutton print" id="print_link">Printable version</a>
+  </div>
+</div>
+
+<!--[if IE]>
+  <style type="text/css" media="screen">
+    div#sendalink_to_container div.accontainer { left: 122px; margin-top: 20px; }
+    input#sendalink_to { margin-bottom: 7px; }
+    div#sendalink_to_container div#header, div#sendalink_to_container ul, div#sendalink_to_container div#footer { display: inline-block; }
+  </style>
+<![endif]-->
+                      </td>
+          <td id="page-col-3" width="4">&nbsp;</td>
+        </tr>
+      </table>
+      <div id="page-footer">
+        <div class="header">
+          <div class="rt"></div>
+          <div class="lt"></div>
+        </div>
+        <div class="content"><div id="footer-logo" ><a href="http://pbworks.com/?utm_campaign=wiki-link" title=""></a></div>
+
+<div id="footer-pbwiki">
+  <p>
+    <strong><a href="https://pbworks.com/?utm_campaign=wiki-link">PBworks</a> </strong> / <a target="_new" href="mailto:support@pbworks.com">Help</a><br/>
+    <a href="http://pbworks.com/content/termsofservice?utm_campaign=wiki-link">Terms of use</a> / <a href="http://pbworks.com/content/privacypolicy?utm_campaign=wiki-link">Privacy policy</a> / <a href="http://www.pbworks.com/gdpr.html">GDPR</a>
+  </p>
+</div>
+<div id="footer-about">
+  <p>
+        <strong>About this workspace</strong>
+            <br/>
+    <a href="../contact-owner">Contact the owner</a> /         <a href="http://hackerspacesg.pbworks.com/rss.xml">RSS feed</a> /     This workspace is <strong>public</strong>
+  </p>
+</div>
+</div>        <div class="footer">
+          <div class="lt"></div>
+          <div class="rt"></div>
+        </div>
+      </div>
+    </div><!--- /#page -->
+
+  </td>
+  <td id="side-content">
+      <div id="sidebar">
+    <div id="side-toolbar" class="sidebox">
+      <ul id="main-tools" class="empty">
+                              </ul>
+      
+    </div><!-- /#side-toolbar -->
+      <div id="sidebarModules">
+                        <div id="module__login" class="wikicontext-module sidebox" style="position: relative; z-index: 0;">
+      <div class="header"><h3>Join this workspace</h3><a class="close togglemodule" href="FrontPage#"></a></div>
+      <div class="content">
+        <div class="inner-content">
+
+                     <div class="top">
+                          To join this workspace,
+              <a href="../request-access">request access</a>.            </div>
+            <p>Already have an account? <a href="../session/login">Log in</a>!</p>
+                              </div>
+      </div>
+      <div class="footer"></div>
+      </div>
+    
+
+      
+              <div class="wikicontext-module sidebox folders" id="module-folders">
+  <div class="header"><h3 id="module-title-folders">Navigator</h3><a href="javascript:void(0);" class="close togglemodule">&nbsp;</a></div>  <div class="content wikistyle" style="height: 200px;">
+    <div class="loading" id="navigator_loading_message">Loading&hellip;</div>
+  </div>
+<div class="footer resizeable">&nbsp;</div>
+</div>                <div class="wikicontext-module sidebox sidebar" id="module-sidebar">
+  <div class="header"><h3 id="module-title-sidebar">SideBar</h3><a href="javascript:void(0);" class="close togglemodule">&nbsp;</a></div>    <div class="content wikistyle">
+      <p><strong>Navigation</strong></p>
+<p><a href="../../FrontPage">FrontPage</a></p>
+<p><a href="../../AboutHackerspaceSG">AboutHackerspaceSG</a></p>
+<p><a href="../../Contacts">Contacts</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="../../Projects">Projects</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="../../ToDoList">ToDoList</a></p>
+<p><strong><a href="../../CorkBoard-(things-that-MAY-be-of-interest-to-HS-folks)">CorkBoard (things that MAY be of interest to HS folks)</a></strong></p>
+<p><a href="../../DonationsLoans">DonationsLoans</a></p>
+<p>&nbsp;</p>
+<p><a href="../../HackerspaceSGIdeas">HackerspaceSGIdeas</a></p>
+<p><a href="../../HackerspaceSGProjects">HackerspaceSGProjects</a></p>
+<p><a href="../../HackerspaceSGPitch">HackerspaceSGPitch</a></p>
+<p><a href="../../HowToPledge">HowToPledge</a></p>
+<p><a href="../../HackerspaceSG-Incorporation">HackerspaceSG Incorporation</a>&nbsp;</p>
+<p><a href="../../*Scape">*Scape</a></p>
+<p><a href="../../LinksToVariousUserGroups">LinksToVariousUserGroups</a></p>
+<p><a href="../../Food-places-around-Hackerspace">Food places around Hackerspace</a></p>
+<p>Minutes</p>
+<ul><li><a style="border-width:0px;margin:0px;padding:0px;font-weight:inherit;font-style:inherit;font-size:13px;font-family:inherit;vertical-align:baseline;color:#114488;" href="../../Meeting-Minutes-050909">Meeting Minutes 050909</a></li>
+<li><a href="../../Discussion+-+041109">Discussion - 041109</a></li>
+<li><a href="../../Community+Meeting+-+15112009">Community Meeting - 15112009</a></li>
+<li><a href="../../Council+meeting+-+28112009">Council meeting - 28112009</a></li>
+<li><a href="../../Plenum">Plenum</a></li>
+</ul><p>&nbsp;</p>
+<p>&nbsp;</p>
+          </div>
+  <div class="footer">&nbsp;</div>
+</div>                            <div class="wikicontext-module sidebox recentactivity" id="module-recentactivity">
+  <div class="header"><h3 id="module-title-recentactivity">Recent Activity</h3><a href="javascript:void(0);" class="close togglemodule">&nbsp;</a></div>  <div id="new-recent-activity" style="display: none;">
+    <a id="new-recent-activity-refresh" href="FrontPage#">
+      Show <span id="new-recent-activity-count">0</span> new item<span id="new-recent-activity-plural">s</span>
+    </a>
+  </div>
+  <div class="content" style="height: 364px;">
+    <div class="loading" id="recentactivity_loading_message">Loading&hellip;</div>
+  </div>
+<div class="footer resizeable">&nbsp;</div>
+</div>            </div>
+    </div>
+  </td>
+  </tr>
+
+</table>
+</div>
+      <script>
+  PBinfo = {"CurrentPage":{"is_dev":false,"sessCookie":"ds3","requesttime":"1564035955","page":"FrontPage","editor_v3":true,"security":"default"},"CurrentWiki":{"front_page":"FrontPage","isPublic":true,"is_archived":false,"debug":false,"usercount":90,"filecount":9,"pagecount":107,"foldercount":1,"name":"hackerspacesg","title":"hackerspacesg","cat":"ind","readonly":null,"comments_disabled":null,"comments_newest_first":null,"network_groups":[],"requestaccess":true},"CheckPermissions":{"uid":false,"personal_wiki":false},"GetFeatures":{"fliqz_upsell":true},"GetTimes":{"_valid_as_of":"1564035955","commenttime":1563985566,"filetime":1563985566,"foldertime":1563985566,"page_list_time":1563985566,"pagetime":1563985566,"permtime":1563985566,"tagtime":1563985566,"_args":{"op":"GetTimes"}},"GetUserPrefs":{"sidebar":{"folders":[],"sidebar":[],"addusers":[],"recentactivity":[]},"sidebar_collapsed":false,"show_rev_comment":"context-error"},"BuildTime":1546049018,"CurrentObject":13758491,"GetPage":{"_perm_cache_times":{"pagetime":1563985566,"foldertime":1563985566,"permtime":1563985566},"_valid_as_of":"1564035955","author":{"perm":"admin","name":"Meng Weng Wong","first_name":"Meng Weng","last_name":"Wong","email":"mengwong@gmail.com","image":"http:\/\/hackerspacesg.pbworks.com\/uimg\/bread.png","verified":"1236225529","email_verified":"1236225529","lastview":1277881800,"lastviewtext":"9 years","initials":"MW","large_image":"http:\/\/hackerspacesg.pbworks.com\/uimg\/bread.png","uid":"95794d85fa54b99bb01021321a7ba0adba6d31b2"},"current_revision":1273512322,"hasPlugins":true,"has_custom_perms":false,"hidden":false,"locked":false,"mtime":1273512322,"name":"FrontPage","oid":13758491,"perms":{"r":true},"revcount":21,"revurl":"http:\/\/hackerspacesg.pbworks.com\/w\/page\/13758491\/FrontPage","size":4848,"wikistyle":false,"_args":{"oid":13758491,"revision":false,"op":"GetPage"}}};
+</script>
+<script type="text/javascript" src="http://vs1.pbworks.com/shared/statics/libraries-v78145716.js"></script>
+<script type="text/javascript" src="http://vs1.pbworks.com/shared/statics/packed-v65464171.js"></script>
+<script type="text/javascript" src="http://vs1.pbworks.com/shared/statics/extras-v46757463.js"></script><!--[if lte IE 6]>
+  <script type="text/javascript">function ie6minwidth(){var size = (document.documentElement.clientWidth<960 ? '960px' : '100%'); $(document.body).setStyle({'width':size});} document.observe("dom:loaded", ie6minwidth); Event.observe(window, 'resize', ie6minwidth); 
+</script>
+<![endif]-->
+    <script type="text/javascript">
+  var _qevents = [{ qacct : "p-16CGFkiSpdTEU" }];
+  (function() {
+   var elem = document.createElement('script');
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge")
+               + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<noscript><div style="display: none;"><img src="http://pixel.quantserve.com/pixel/p-16CGFkiSpdTEU.gif" height="1" width="1" alt="Quantcast"/></div></noscript><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2694787-12");
+pageTracker._setDomainName(".pbworks.com");
+if (document.cookie.match(/hm=/)) {
+  pageTracker._setVar('authenticated');
+}
+pageTracker._setAllowHash(false);
+pageTracker._trackPageview();
+</script>
+</body>
+</html><!--  -->

@@ -1,0 +1,365 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+	<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  
+  <link rel="stylesheet" type="text/css" href="http://vs1.pbworks.com/shared/statics/packed-m-prod-v07998121.css" />
+
+  
+		<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="http://vs1.pbworks.com/shared/statics/ie6-m-prod-v85351277.css" /><![endif]-->
+      
+      
+  
+  <link rel="canonical" href="HowToPledge?revision=43113549" />
+            <link rel="alternate" title="hackerspacesg Recent Changes" href="http://hackerspacesg.pbworks.com/rss.xml" type="application/rss+xml" />
+      	<title>hackerspacesg / HowToPledge</title>
+</head>
+<body class=" has-ws-nav wikipage wget">
+<!-- network bar -->
+<div id="network-bar" class="network-bar clearfix standalone">
+  <ul id="network-bar-breadcrumbs">
+        <li class="last" id="network-crumb-wiki"><a href="../../../index.html" id="network-crumb-wiki-link">hackerspacesg</a></li>
+  </ul>
+
+      <!-- user bar -->
+    <div id="user-bar" class="user-bar "><div class="user-bar-left"><div class="user-bar-right"><p><a href="../../session/login">log in</a><a id="network-bar-help" class="network-bar-help" href="mailto:support@pbworks.com">help</a></p></div></div></div>
+  
+  
+      <div id="network-bar-signup" class="network-bar-section">
+      <span class="iconbutton upgrade">
+        <a class="network-bar-signup-link" href="https://plans.pbworks.com/signup/basic20?utm_campaign=mcgetyourown&utm_source=personal" class="iconbutton upgrade">Get a free wiki</a>
+        &nbsp;|&nbsp;
+        <a class="network-bar-signup-link" href="http://pbworks.com/signup?utm_campaign=freebiz&utm_source=personal" class="iconbutton upgrade">Try our free business product</a>
+      </span>
+    </div>
+  
+</div>
+
+    <div id="ws-nav" class="chrome-content">
+          <ul class="nav-tabs active-tab-wiki first-tab-active">
+        <li id="ws-nav-wiki" class="active"><a href="../FrontPage">Wiki</a></li><li id="ws-nav-browse" class="last"><a href="http://hackerspacesg.pbworks.com/w/browse/">Pages &amp; Files</a></li>      </ul>
+    
+    <div id="ws-nav-search">
+      <input type="text" placeholder="Search this workspace" class="inputtext text" name="SearchFor" id="input-search"  tabindex="1" title="Search" autocomplete="off"/>
+    </div>
+  </div>
+<div id="wrapper">
+<table id="container" cellspacing="0">
+<tr>
+  <td id="main-content">
+        
+    <div id="page">
+      <div id="page-toolbar">
+        <div id="page-toolbar-inner">
+          <div id="view-tab" class="active">View</div>
+                      <div id="edit-tab" class="logintoedit"><a href="javascript:void(0);">Edit</a></div>
+          					<div id="expand-collapse-page"><a id="expand-collapse-page-link" href="javascript:void(0);"></a></div>
+        </div>
+      </div>
+            <div id="edit-button-bubble" style="display:none" class="bubble">
+        <div id="edit-button-arrow"></div>
+        <a class="close" href="HowToPledge?revision=43113549#"></a>
+        <table cellspacing="0"><tr class="header"><td class="left"></td><td class="right"></td></tr><tr class="content"><td class="left"></td><td class="right">
+              <div class="inner-content">
+                              <div class="top">
+                                  To edit this page,<br/>
+                  <a href="http://hackerspacesg.pbworks.com/request_access.php">request access</a> to the workspace.                </div>
+                <p>Already have an account? <a href="../../session/login?edit=1">Log in</a>!</p>
+                                            </div>
+            </td></tr></table>
+      </div>
+      
+      <table cellspacing="0" id="inner-page">
+        <tr>
+          <td id="page-col-1" width="4">&nbsp;</td>
+          <td id="page-col-2">
+                          <div id="wikicontent">
+  <h1 class="pagetitle box">
+      HowToPledge
+  </h1>
+  <div id="history" class="box wikistyle">
+  <div class="page-history version">
+    <div class="content">
+      <strong class="historyicon iconbutton">This version was saved 9 years, 10 months ago</strong>
+      <a href="../HowToPledge">View current version</a> &nbsp; &nbsp; <a href="../../page-revisions/13758498/HowToPledge">Page history</a>
+    </div>
+
+    <div class="content last">
+      Saved by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class="iconbutton usericon usercard_trigger">Ruiwen</a><br/>
+      on September 5, 2009 at 3:34:50 am
+    </div>
+    <div class="clear" >&nbsp;</div>
+      </div>
+  </div>
+  <div id="wikipage" class="box wikistyle">
+
+    <div style="" id="wikipage-inner">
+    <h1><span style="color: rgb(255, 153, 204);"><span style="background-color: rgb(255, 255, 255);">NOTE:</span></span></h1>
+<p><span style="color: rgb(255, 153, 204);"><span style="background-color: rgb(255, 255, 255);">Currently resolving issues with Pledgie. DO NOT PLEDGE THROUGH PLEDGIE UNTIL FURTHER NOTICE.</span></span></p>
+<h1><span style="color: rgb(255, 0, 0);"><span style="background-color: rgb(255, 255, 255);">Further Notice (05 Sept 09):</span></span></h1>
+<p><span style="color: rgb(255, 0, 0);"><span style="background-color: rgb(255, 255, 255);">Looks like a Personal Payment in Paypal is suitable for our needs without additional fees. See "How to Pledge" below, for details</span></span></p>
+<h1>Why Pledge?</h1>
+<p>As <a href="http://groups.google.com/group/hackerspacesg/browse_thread/thread/d21f60ec3e65f10e/3ff7335fe2007313?hl=en#3ff7335fe2007313">noted</a> by Jason on the <a href="http://groups.google.com/group/hackerspacesg">HackerspaceSG mailing list</a>, we need to raise funds in order to make the Hackerspace a reality.</p>
+<p>&nbsp;</p>
+<p>With the amount raised, we will then be able to:</p>
+<ol>
+<li>Satisfy basic operational expenses, eg. food+drinks for all, venue rental, communal equipment, etc.</li>
+<li>Show possible funding sources that the Hackerspace is in demand, and will do the community good.</li>
+</ol>
+<p>&nbsp;</p>
+<p><em>The target amount has been set to SGD 15,000 initially. While this may seem like a huge sum at first, it may be only barely sufficient to cover the first three months' rental deposit for, say, a shophouse.. without renovation and utility costs. But, of course, baby steps first.</em></p>
+<h1>&nbsp;</h1>
+<h1>How to Pledge?</h1>
+<p>Here's how to pledge, in a few easy steps (you will need an active Paypal account)</p>
+<ol>
+<li><strike>Visit the &lt;TO BE FILLED&gt;</strike></li>
+<li><strike>In the green box below the words "<strong>Make A Pledge</strong>", enter the amount you wish to pledge to the Hackerspace, and hit the Submit button.</strike></li>
+<li><strike>You'll then be taken to a confirmation screen, followed by a button to go to Paypal to complete the transaction.</strike></li>
+<li><strike>Once you get confirmation of the transaction, you Pledge should be complete.</strike></li>
+<li><strike>The Pledgie Campaign owner (Ruiwen), will be able to see the list of donors and the amount donated. However, this list will not be shown publicly.</strike></li>
+<li><strike>You can also choose to follow up on your donation with a short mail to ruiwen[plus]paypalhackerspacesg [at] thoughtmonkeys [dot] com</strike></li>
+</ol>
+<p>&nbsp;</p>
+<ol>
+<li>Log into <a href="http://paypal.com">Paypal</a></li>
+<li>Initiate a <strong>Personal Payment</strong> to ruiwen[plus]paypalhackerspacesg [at] thoughtmonkeys [dot] com (&lt;--usual unmangling applies)
+<p><img src="../../../f/1252090510/Picture&#32;4.png"></p>
+</li>
+<li>Complete the rest of the transaction as per normal Paypal procedure.</li>
+<li>Please follow up with an email to the thoughtmonkeys [dot] com email address above, stating your name, and amount donated, so that we can double check.</li>
+</ol>
+<p>&nbsp;</p>
+<h2><strong>Important</strong>: The premise of this donation drive is that we will take/make use of the money IF, AND&nbsp;ONLY&nbsp;IF, the Hackerspace moves into operation. Otherwise, the funds are to be refunded if the plans fail for whatever reason. Therefore, please do not make your pledges anonymous. (Unless you're feeling extremely generous =)</h2>
+<p>&nbsp;</p>
+<p>Pledge wisely!</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+    </div>
+  
+  </div>
+
+  </div>
+
+  <div id="wikiedit" style="display:none;">
+        	<div id="editor-panel" class="box">
+  <h1 id="editTitle" class="pagetitle ellipses">HowToPledge</h1>
+      
+    <table style="table-layout:fixed; width:100%" id="edit-panel">
+      <col/>
+      <col style="width:240px"/>
+      <tr><td>
+      <form method="post" action="../../../HowToPledge" id="editwikipage"><input type="hidden" name="process" value="edit_page" /><div id="editframe"></div></form>
+      </td>
+      <td>
+      <div id="editor-column" style="margin-left:12px;" class="thingbar">
+			  <div id="edit-tools">
+					     <h4>Page Tools</h4>
+                    <div class="editor-module">
+      <div class="header">
+        <h3>Insert links</h3>
+        <p class="aux">Insert links to other pages or uploaded files.</p>
+      </div>
+      <div class="editor-module-tabs">
+        <a href="HowToPledge?revision=43113549#" class="active" id="linkselectab-pages">Pages</a>
+        <a href="HowToPledge?revision=43113549#" id="linkselectab-images">Images and files</a>
+      </div>
+  
+      <div class="content">
+          <div style="display:none" id="thingbar-pages">
+            <div style="border-bottom:1px dotted #bbb; font-size: 10px; padding-bottom: 0.5em; margin-bottom: 0.5em;"><a href="javascript:void(0);" onmousedown="insert_newlink_into_editor(); return false">Insert a link to a new page</a></div>
+            <ol id="thingbarpages"><li><div align="center"><span id="thingbarLoadIcon"></span> Loading...</div></li></ol>
+          </div>
+          <div style="display:none;" id="thingbar-images">
+                            <ol id="thingbarfiles"> <li id="thingbar-images-noimages">No images or files uploaded yet.</li>
+</ol>
+			        <div style="border-top:1px dotted #bbb; font-size: 10px; padding-top: 0.5em; margin-top: 0.5em;"><a href="javascript:void(0);" id="thingbar-url-link">Insert image from URL</a></div>
+          </div>
+	    </div>
+    </div>
+			  </div>
+        <p id="editor-tip" class="aux">
+            <strong>Tip:</strong> To turn text into a link, highlight the text, then click on a page or file from the list above.
+        </p>
+		  </div>
+
+	</td>
+</tr>
+</table> 
+</div>
+  </div>
+
+  <style> div#comments .comment { margin-bottom:5px; } div#comments .content p { margin-bottom:5px; }  </style><div id="comments" class="box">
+<div class="comments-header">
+  <div class="corner4px top"><div class="right"></div><div class="left"></div></div>
+  <h3>
+    Comments (<span id="comments-count">0</span>)
+      </h3>
+  <a name="comments"></a>
+  <div class="corner4px bot"><div class="right"></div><div class="left"></div></div>
+</div>
+<p id="comments-nopermission">You don't have permission to comment on this page.</p>
+</div>
+</div>
+
+  <div id="page-bottom-toolbar">
+  <div class="content box">
+    <a href="HowToPledge?mode=embedded" rel="nofollow" class="iconbutton print" id="print_link">Printable version</a>
+  </div>
+</div>
+
+<!--[if IE]>
+  <style type="text/css" media="screen">
+    div#sendalink_to_container div.accontainer { left: 122px; margin-top: 20px; }
+    input#sendalink_to { margin-bottom: 7px; }
+    div#sendalink_to_container div#header, div#sendalink_to_container ul, div#sendalink_to_container div#footer { display: inline-block; }
+  </style>
+<![endif]-->
+                      </td>
+          <td id="page-col-3" width="4">&nbsp;</td>
+        </tr>
+      </table>
+      <div id="page-footer">
+        <div class="header">
+          <div class="rt"></div>
+          <div class="lt"></div>
+        </div>
+        <div class="content"><div id="footer-logo" ><a href="http://pbworks.com/?utm_campaign=wiki-link" title=""></a></div>
+
+<div id="footer-pbwiki">
+  <p>
+    <strong><a href="https://pbworks.com/?utm_campaign=wiki-link">PBworks</a> </strong> / <a target="_new" href="mailto:support@pbworks.com">Help</a><br/>
+    <a href="http://pbworks.com/content/termsofservice?utm_campaign=wiki-link">Terms of use</a> / <a href="http://pbworks.com/content/privacypolicy?utm_campaign=wiki-link">Privacy policy</a> / <a href="http://www.pbworks.com/gdpr.html">GDPR</a>
+  </p>
+</div>
+<div id="footer-about">
+  <p>
+        <strong>About this workspace</strong>
+            <br/>
+    <a href="../../contact-owner">Contact the owner</a> /         <a href="http://hackerspacesg.pbworks.com/rss.xml">RSS feed</a> /     This workspace is <strong>public</strong>
+  </p>
+</div>
+</div>        <div class="footer">
+          <div class="lt"></div>
+          <div class="rt"></div>
+        </div>
+      </div>
+    </div><!--- /#page -->
+
+  </td>
+  <td id="side-content">
+      <div id="sidebar">
+    <div id="side-toolbar" class="sidebox">
+      <ul id="main-tools" class="empty">
+                              </ul>
+      
+    </div><!-- /#side-toolbar -->
+      <div id="sidebarModules">
+                        <div id="module__login" class="wikicontext-module sidebox" style="position: relative; z-index: 0;">
+      <div class="header"><h3>Join this workspace</h3><a class="close togglemodule" href="HowToPledge?revision=43113549#"></a></div>
+      <div class="content">
+        <div class="inner-content">
+
+                     <div class="top">
+                          To join this workspace,
+              <a href="../../request-access">request access</a>.            </div>
+            <p>Already have an account? <a href="../../session/login">Log in</a>!</p>
+                              </div>
+      </div>
+      <div class="footer"></div>
+      </div>
+    
+
+      
+              <div class="wikicontext-module sidebox folders" id="module-folders">
+  <div class="header"><h3 id="module-title-folders">Navigator</h3><a href="javascript:void(0);" class="close togglemodule">&nbsp;</a></div>  <div class="content wikistyle" style="height: 200px;">
+    <div class="loading" id="navigator_loading_message">Loading&hellip;</div>
+  </div>
+<div class="footer resizeable">&nbsp;</div>
+</div>                <div class="wikicontext-module sidebox sidebar" id="module-sidebar">
+  <div class="header"><h3 id="module-title-sidebar">SideBar</h3><a href="javascript:void(0);" class="close togglemodule">&nbsp;</a></div>    <div class="content wikistyle">
+      <p><strong>Navigation</strong></p>
+<p><a href="../../../FrontPage">FrontPage</a></p>
+<p><a href="../../../AboutHackerspaceSG">AboutHackerspaceSG</a></p>
+<p><a href="../../../Contacts">Contacts</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="../../../Projects">Projects</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="../../../ToDoList">ToDoList</a></p>
+<p><strong><a href="../../../CorkBoard-(things-that-MAY-be-of-interest-to-HS-folks)">CorkBoard (things that MAY be of interest to HS folks)</a></strong></p>
+<p><a href="../../../DonationsLoans">DonationsLoans</a></p>
+<p>&nbsp;</p>
+<p><a href="../../../HackerspaceSGIdeas">HackerspaceSGIdeas</a></p>
+<p><a href="../../../HackerspaceSGProjects">HackerspaceSGProjects</a></p>
+<p><a href="../../../HackerspaceSGPitch">HackerspaceSGPitch</a></p>
+<p><a href="../../../HowToPledge">HowToPledge</a></p>
+<p><a href="../../../HackerspaceSG-Incorporation">HackerspaceSG Incorporation</a>&nbsp;</p>
+<p><a href="../../../*Scape">*Scape</a></p>
+<p><a href="../../../LinksToVariousUserGroups">LinksToVariousUserGroups</a></p>
+<p><a href="../../../Food-places-around-Hackerspace">Food places around Hackerspace</a></p>
+<p>Minutes</p>
+<ul><li><a style="border-width:0px;margin:0px;padding:0px;font-weight:inherit;font-style:inherit;font-size:13px;font-family:inherit;vertical-align:baseline;color:#114488;" href="../../../Meeting-Minutes-050909">Meeting Minutes 050909</a></li>
+<li><a href="../../../Discussion+-+041109">Discussion - 041109</a></li>
+<li><a href="../../../Community+Meeting+-+15112009">Community Meeting - 15112009</a></li>
+<li><a href="../../../Council+meeting+-+28112009">Council meeting - 28112009</a></li>
+<li><a href="../../../Plenum">Plenum</a></li>
+</ul><p>&nbsp;</p>
+<p>&nbsp;</p>
+          </div>
+  <div class="footer">&nbsp;</div>
+</div>                            <div class="wikicontext-module sidebox recentactivity" id="module-recentactivity">
+  <div class="header"><h3 id="module-title-recentactivity">Recent Activity</h3><a href="javascript:void(0);" class="close togglemodule">&nbsp;</a></div>  <div id="new-recent-activity" style="display: none;">
+    <a id="new-recent-activity-refresh" href="HowToPledge?revision=43113549#">
+      Show <span id="new-recent-activity-count">0</span> new item<span id="new-recent-activity-plural">s</span>
+    </a>
+  </div>
+  <div class="content" style="height: 364px;">
+    <div class="loading" id="recentactivity_loading_message">Loading&hellip;</div>
+  </div>
+<div class="footer resizeable">&nbsp;</div>
+</div>            </div>
+    </div>
+  </td>
+  </tr>
+
+</table>
+</div>
+      <script>
+  PBinfo = {"CurrentPage":{"is_dev":false,"sessCookie":"ds3","requesttime":"1564036458","page":"HowToPledge","editor_v3":true,"security":"default"},"CurrentWiki":{"front_page":"FrontPage","isPublic":true,"is_archived":false,"debug":false,"usercount":90,"filecount":9,"pagecount":107,"foldercount":1,"name":"hackerspacesg","title":"hackerspacesg","cat":"ind","readonly":null,"comments_disabled":null,"comments_newest_first":null,"network_groups":[],"requestaccess":true},"CheckPermissions":{"uid":false,"personal_wiki":false},"GetFeatures":{"fliqz_upsell":true},"GetTimes":{"_valid_as_of":"1564036458","commenttime":1563985566,"filetime":1563985566,"foldertime":1563985566,"page_list_time":1563985566,"pagetime":1563985566,"permtime":1563985566,"tagtime":1563985566,"_args":{"op":"GetTimes"}},"GetUserPrefs":{"sidebar":{"folders":[],"sidebar":[],"addusers":[],"recentactivity":[]},"sidebar_collapsed":false,"show_rev_comment":"context-error"},"BuildTime":1546049018,"CurrentObject":13758498,"GetPage":{"_perm_cache_times":{"pagetime":1563985566,"foldertime":1563985566,"permtime":1563985566},"_valid_as_of":"1564036458","author":{"perm":"admin","name":"Ruiwen","first_name":"Ruiwen","email":"ruiwen@hackerspace.sg","image":"http:\/\/hackerspacesg.pbworks.com\/uimg\/bread.png","verified":"1258434833","email_verified":"1257363462","lastview":1385696400,"lastviewtext":"5 years","initials":"R","large_image":"http:\/\/hackerspacesg.pbworks.com\/uimg\/bread.png","uid":"afd8017d21c313f0e7b185c0eb262d911be5cd43"},"current_revision":1343625719,"hasPlugins":false,"has_custom_perms":false,"hidden":false,"locked":false,"mtime":1252092890,"name":"HowToPledge","oid":13758498,"perms":{"r":true},"revcount":24,"revurl":"http:\/\/hackerspacesg.pbworks.com\/w\/page\/13758498\/HowToPledge?revision=43113549","size":3775,"wikistyle":false,"_args":{"oid":13758498,"revision":43113549,"op":"GetPage"}}};
+</script>
+<script type="text/javascript" src="http://vs1.pbworks.com/shared/statics/libraries-v78145716.js"></script>
+<script type="text/javascript" src="http://vs1.pbworks.com/shared/statics/packed-v65464171.js"></script>
+<script type="text/javascript" src="http://vs1.pbworks.com/shared/statics/extras-v46757463.js"></script><!--[if lte IE 6]>
+  <script type="text/javascript">function ie6minwidth(){var size = (document.documentElement.clientWidth<960 ? '960px' : '100%'); $(document.body).setStyle({'width':size});} document.observe("dom:loaded", ie6minwidth); Event.observe(window, 'resize', ie6minwidth); 
+</script>
+<![endif]-->
+    <script type="text/javascript">
+  var _qevents = [{ qacct : "p-16CGFkiSpdTEU" }];
+  (function() {
+   var elem = document.createElement('script');
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge")
+               + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<noscript><div style="display: none;"><img src="http://pixel.quantserve.com/pixel/p-16CGFkiSpdTEU.gif" height="1" width="1" alt="Quantcast"/></div></noscript><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2694787-12");
+pageTracker._setDomainName(".pbworks.com");
+if (document.cookie.match(/hm=/)) {
+  pageTracker._setVar('authenticated');
+}
+pageTracker._setAllowHash(false);
+pageTracker._trackPageview();
+</script>
+</body>
+</html><!--  -->

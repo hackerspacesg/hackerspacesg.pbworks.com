@@ -1,0 +1,536 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+	<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  
+  <link rel="stylesheet" type="text/css" href="http://vs1.pbworks.com/shared/statics/packed-m-prod-v07998121.css" />
+
+  
+		<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="http://vs1.pbworks.com/shared/statics/ie6-m-prod-v85351277.css" /><![endif]-->
+      
+      
+  
+  
+        	<title>hackerspacesg / Revisions of ToDoList</title>
+</head>
+<body id="body" class="secondary has-ws-nav wikipage has-ws-nav wget"><!-- network bar -->
+<div id="network-bar" class="network-bar clearfix standalone">
+  <ul id="network-bar-breadcrumbs">
+        <li class="last" id="network-crumb-wiki"><a href="../../../index.html" id="network-crumb-wiki-link">hackerspacesg</a></li>
+  </ul>
+
+      <!-- user bar -->
+    <div id="user-bar" class="user-bar "><div class="user-bar-left"><div class="user-bar-right"><p><a href="../../session/login">log in</a><a id="network-bar-help" class="network-bar-help" href="mailto:support@pbworks.com">help</a></p></div></div></div>
+  
+  
+      <div id="network-bar-signup" class="network-bar-section">
+      <span class="iconbutton upgrade">
+        <a class="network-bar-signup-link" href="https://plans.pbworks.com/signup/basic20?utm_campaign=mcgetyourown&utm_source=personal" class="iconbutton upgrade">Get a free wiki</a>
+        &nbsp;|&nbsp;
+        <a class="network-bar-signup-link" href="http://pbworks.com/signup?utm_campaign=freebiz&utm_source=personal" class="iconbutton upgrade">Try our free business product</a>
+      </span>
+    </div>
+  
+</div>
+
+    <div id="ws-nav" class="chrome-content">
+          <ul class="nav-tabs active-tab-wiki first-tab-active">
+        <li id="ws-nav-wiki" class="active"><a href="../../page/FrontPage">Wiki</a></li><li id="ws-nav-browse" class="last"><a href="http://hackerspacesg.pbworks.com/w/browse/">Pages &amp; Files</a></li>      </ul>
+    
+    <div id="ws-nav-search">
+      <input type="text" placeholder="Search this workspace" class="inputtext text" name="SearchFor" id="input-search"  tabindex="1" title="Search" autocomplete="off"/>
+    </div>
+  </div>
+<table id="container">
+  <tr>
+    <td id="main-content">
+      <div class="content">
+
+<div id="page-revisions" class="rev-count-38">
+      <h2><a href="../../page/ToDoList">ToDoList</a></h2>
+    <ul id="author_info">
+              <li><span class="label">Created by</span> <span class="user"><a href="javascript:alert('Please join this workspace to see more details about this user.');" class="iconbutton usericon usercard_trigger">Luther Goh</a></span> <span class="time">9 years, 8 months ago</span></li>
+                </ul>
+
+    <h2>Revisions (38)</h2>
+  
+  
+  <form action="http://hackerspacesg.pbworks.com/w/page-revisions/compare">
+    <input type="hidden" name="page_name" value="ToDoList" />
+    <input type="submit" value="Compare" class="compare" />
+    <table id="page-revisions-table">
+              <tr>
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1263366916" checked /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1263366916"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList">January 13, 2010 at 3:15:16 pm</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Luther Goh</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">(Current revision)</td>
+        </tr>
+              <tr class="alternate">
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1261376228"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1261376228" checked /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1261376228">December 21, 2009 at 2:17:08 pm</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Luther Goh</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr>
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1261216520"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1261216520"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1261216520">December 19, 2009 at 5:55:20 pm</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Luther Goh</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr class="alternate">
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1261215579"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1261215579"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1261215579">December 19, 2009 at 5:39:39 pm</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Luther Goh</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr>
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1260896558"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1260896558"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1260896558">December 16, 2009 at 1:02:38 am</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Meng Weng Wong</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr class="alternate">
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1260894791"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1260894791"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1260894791">December 16, 2009 at 12:33:11 am</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Meng Weng Wong</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr>
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1260531107"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1260531107"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1260531107">December 11, 2009 at 7:31:47 pm</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Sven Berg Ryen</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr class="alternate">
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1260530869"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1260530869"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1260530869">December 11, 2009 at 7:27:49 pm</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Sven Berg Ryen</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr>
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1260428688"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1260428688"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1260428688">December 10, 2009 at 3:04:48 pm</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Sven Berg Ryen</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr class="alternate">
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1260332752"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1260332752"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1260332752">December 9, 2009 at 12:25:52 pm</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Luther Goh</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr>
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1260042879"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1260042879"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1260042879">December 6, 2009 at 3:54:39 am</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Ray Rashif</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr class="alternate">
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1260038783"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1260038783"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1260038783">December 6, 2009 at 2:46:23 am</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Tamas Herman</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr>
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1260027611"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1260027611"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1260027611">December 5, 2009 at 11:40:11 pm</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Meng Weng Wong</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr class="alternate">
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1259399716"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1259399716"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1259399716">November 28, 2009 at 5:15:16 pm</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Ruiwen</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr>
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1259117857"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1259117857"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1259117857">November 25, 2009 at 10:57:37 am</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">John Young</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr class="alternate">
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1259086323"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1259086323"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1259086323">November 25, 2009 at 2:12:03 am</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Luther Goh</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr>
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1259048068"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1259048068"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1259048068">November 24, 2009 at 3:34:28 pm</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Luther Goh</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr class="alternate">
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1258992484"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1258992484"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1258992484">November 24, 2009 at 12:08:04 am</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Meng Weng Wong</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr>
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1258957093"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1258957093"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1258957093">November 23, 2009 at 2:18:13 pm</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Luther Goh</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr class="alternate">
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1258946301"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1258946301"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1258946301">November 23, 2009 at 11:18:21 am</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Luther Goh</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr>
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1258946275"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1258946275"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1258946275">November 23, 2009 at 11:17:55 am</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Luther Goh</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr class="alternate">
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1258919724"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1258919724"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1258919724">November 23, 2009 at 3:55:24 am</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Luther Goh</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr>
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1258919203"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1258919203"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1258919203">November 23, 2009 at 3:46:43 am</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Luther Goh</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr class="alternate">
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1258918834"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1258918834"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1258918834">November 23, 2009 at 3:40:34 am</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Luther Goh</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr>
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1258918118"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1258918118"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1258918118">November 23, 2009 at 3:28:38 am</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Luther Goh</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr class="alternate">
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1258730513"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1258730513"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1258730513">November 20, 2009 at 11:21:53 pm</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Tamas Herman</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr>
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1258693167"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1258693167"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1258693167">November 20, 2009 at 12:59:27 pm</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">yq</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr class="alternate">
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1258683632"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1258683632"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1258683632">November 20, 2009 at 10:20:32 am</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Meng Weng Wong</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr>
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1258663675"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1258663675"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1258663675">November 20, 2009 at 4:47:55 am</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Luther Goh</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr class="alternate">
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1258280695"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1258280695"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1258280695">November 15, 2009 at 6:24:55 pm</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Ruiwen</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr>
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1258279808"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1258279808"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1258279808">November 15, 2009 at 6:10:08 pm</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Ruiwen</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr class="alternate">
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1258227634"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1258227634"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1258227634">November 15, 2009 at 3:40:34 am</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Luther Goh</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr>
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1258220478"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1258220478"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1258220478">November 15, 2009 at 1:41:18 am</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Meng Weng Wong</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr class="alternate">
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1258219563"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1258219563"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1258219563">November 15, 2009 at 1:26:03 am</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Luther Goh</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr>
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1258219524"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1258219524"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1258219524">November 15, 2009 at 1:25:24 am</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Luther Goh</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr class="alternate">
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1258219432"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1258219432"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1258219432">November 15, 2009 at 1:23:52 am</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Luther Goh</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr>
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1258217449"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1258217449"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1258217449">November 15, 2009 at 12:50:49 am</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Luther Goh</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+              <tr class="alternate">
+          <td class="revision-compare-left"><input type="radio" name="rev2" value="1258214503"  /></td>
+          <td class="revision-compare-right"><input type="radio" name="rev1" value="1258214503"  /></td>
+          <td class="revision-info">
+                          <p class="revision-comment-blank">No description entered</p>
+              <span class="revision-has-comment">
+                        <a href="../../page/ToDoList?rev=1258214503">November 15, 2009 at 12:01:43 am</a> by <a href="javascript:alert('Please join this workspace to see more details about this user.');" class=" usercard_trigger">Luther Goh</a></span></td>
+          <td class="revision-delete">&nbsp;</td>
+          <td class="revision-current">&nbsp;</td>
+        </tr>
+                </table>
+    <input type="submit" value="Compare" class="compare" />
+  </form>
+</div>
+
+    </div><!--- /.content -->
+    <div id="page-footer">
+      <div class="content" id="page-footer-links">
+        <div id="footer-logo" ><a href="http://pbworks.com/?utm_campaign=wiki-link" title=""></a></div>
+
+<div id="footer-pbwiki">
+  <p>
+    <strong><a href="https://pbworks.com/?utm_campaign=wiki-link">PBworks</a> </strong> / <a target="_new" href="mailto:support@pbworks.com">Help</a><br/>
+    <a href="http://pbworks.com/content/termsofservice?utm_campaign=wiki-link">Terms of use</a> / <a href="http://pbworks.com/content/privacypolicy?utm_campaign=wiki-link">Privacy policy</a> / <a href="http://www.pbworks.com/gdpr.html">GDPR</a>
+  </p>
+</div>
+<div id="footer-about">
+  <p>
+        <strong>About this workspace</strong>
+            <br/>
+    <a href="../../contact-owner">Contact the owner</a> /         <a href="http://hackerspacesg.pbworks.com/rss.xml">RSS feed</a> /     This workspace is <strong>public</strong>
+  </p>
+</div>
+      </div>
+    </div>
+  </td><!--- /#main-content -->  
+  
+  <td id="side-content">  <div id="sidebar">
+    <div id="side-toolbar" class="sidebox">
+      <ul id="main-tools" class="empty">
+                              </ul>
+      
+    </div><!-- /#side-toolbar -->
+      <div id="sidebarModules">
+                  
+
+      
+              <div class="wikicontext-module sidebox folders" id="module-folders">
+  <div class="header"><h3 id="module-title-folders">Navigator</h3><a href="javascript:void(0);" class="close togglemodule">&nbsp;</a></div>  <div class="content wikistyle" style="height: 200px;">
+    <div class="loading" id="navigator_loading_message">Loading&hellip;</div>
+  </div>
+<div class="footer resizeable">&nbsp;</div>
+</div>                <div class="wikicontext-module sidebox sidebar" style="display: none;" id="module-sidebar">
+  <div class="header"><h3 id="module-title-sidebar">SideBar</h3><a href="javascript:void(0);" class="close togglemodule">&nbsp;</a></div><div class="footer">&nbsp;</div>
+</div>                            <div class="wikicontext-module sidebox recentactivity" id="module-recentactivity">
+  <div class="header"><h3 id="module-title-recentactivity">Recent Activity</h3><a href="javascript:void(0);" class="close togglemodule">&nbsp;</a></div>  <div id="new-recent-activity" style="display: none;">
+    <a id="new-recent-activity-refresh" href="ToDoList?show_all=1#">
+      Show <span id="new-recent-activity-count">0</span> new item<span id="new-recent-activity-plural">s</span>
+    </a>
+  </div>
+  <div class="content" style="height: 364px;">
+    <div class="loading" id="recentactivity_loading_message">Loading&hellip;</div>
+  </div>
+<div class="footer resizeable">&nbsp;</div>
+</div>            </div>
+    </div>
+</td><!--- /#side-content -->
+</tr></table>
+
+      <script>
+  PBinfo = {"CurrentPage":{"is_dev":false,"sessCookie":"ds3","requesttime":"1564036090","page":"ToDoList","editor_v3":true,"security":"default"},"CurrentWiki":{"front_page":"FrontPage","isPublic":true,"is_archived":false,"debug":false,"usercount":90,"filecount":9,"pagecount":107,"foldercount":1,"name":"hackerspacesg","title":"hackerspacesg","cat":"ind","readonly":null,"comments_disabled":null,"comments_newest_first":null,"network_groups":[],"requestaccess":true},"CheckPermissions":{"uid":false,"personal_wiki":false},"GetFeatures":{"fliqz_upsell":true},"GetTimes":{"_valid_as_of":"1564036090","commenttime":1563985566,"filetime":1563985566,"foldertime":1563985566,"page_list_time":1563985566,"pagetime":1563985566,"permtime":1563985566,"tagtime":1563985566,"_args":{"op":"GetTimes"}},"GetUserPrefs":{"sidebar":{"folders":[],"sidebar":[],"addusers":[],"recentactivity":[]},"sidebar_collapsed":false},"BuildTime":1546049018,"CurrentObject":13758533};
+</script>
+<script type="text/javascript" src="http://vs1.pbworks.com/shared/statics/libraries-v78145716.js"></script>
+<script type="text/javascript" src="http://vs1.pbworks.com/shared/statics/packed-v65464171.js"></script>
+<script type="text/javascript" src="http://vs1.pbworks.com/shared/statics/extras-v46757463.js"></script><!--[if lte IE 6]>
+  <script type="text/javascript">function ie6minwidth(){var size = (document.documentElement.clientWidth<960 ? '960px' : '100%'); $(document.body).setStyle({'width':size});} document.observe("dom:loaded", ie6minwidth); Event.observe(window, 'resize', ie6minwidth); 
+</script>
+<![endif]-->
+    <script type="text/javascript">
+  var _qevents = [{ qacct : "p-16CGFkiSpdTEU" }];
+  (function() {
+   var elem = document.createElement('script');
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge")
+               + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);
+  })();
+</script>
+<noscript><div style="display: none;"><img src="http://pixel.quantserve.com/pixel/p-16CGFkiSpdTEU.gif" height="1" width="1" alt="Quantcast"/></div></noscript><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2694787-12");
+pageTracker._setDomainName(".pbworks.com");
+if (document.cookie.match(/hm=/)) {
+  pageTracker._setVar('authenticated');
+}
+pageTracker._setAllowHash(false);
+pageTracker._trackPageview();
+</script>
+</body>
+</html><!--  -->

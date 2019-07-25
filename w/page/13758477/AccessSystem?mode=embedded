@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="http://vs1.pbworks.com/shared/statics/embedded-m-prod-v15015099.css" />  
+<title></title>
+<base target="_top" />
+</head>
+<body class="wikistyle wget">
+<h1>AccessSystem</h1>
+<br />
+<div id="displaycontent">
+<h2>HackerspaceSG's own access system</h2>
+<p>&nbsp;</p>
+<p><strong><u><em>Please see proposed learning and busking session by Joylon Caplin on the Corkboard.</em></u></strong>&nbsp; Jan 26 2010</p>
+<p>&nbsp;</p>
+<p>How about hacking something up from an old laptop, an old industrial touchscreen, a USB&nbsp;relay, and some creativity?&nbsp; I can donate the first two items, and the USB relay is something we can get from our friends at Hackerspace Japan--they have a neat little board.&nbsp; The magnetic door lock itself I'm sure we can get from Sim Lim or the junk guys behind Sim Lim Tower.&nbsp; I'm headed over to Sim Lim to buy a couple of little items with which to experiment.</p>
+<p>&nbsp;</p>
+<p>Using existing ezLink cards maybe?&nbsp;Or some other access method? (Save costs from implementing commercial system, plus something to call our own.) Having&nbsp;ezLink&nbsp;charge system for access to the office. Charge&nbsp;the use of hackerspace by&nbsp;the hr for peeps who would like to just drop by to use the space for a quick meeting, sit down etc.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>This may seem silly, but the vision I have is for a HAL9000 graphic which asks a number of multiple choice questions such as 'What is your quest?' or 'What is the airspeed velocity of an unladen swallow?' and responds with 'I'm sorry Dave....' but there is an ordinary keypad to enter an ordinary 5 digit code modified in some simple way re time of day or date to make it less likely that non-HS people can just observe the digits.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Could we use those <a target="_blank" href="http://www.poken.com/">cute little dinguses</a> we got at the camp yesterday as some form of access control?&nbsp; They seem to have some RF capability?&nbsp; Who would we ask? (Ask Preetam)</p>
+<p>&nbsp;</p>
+<p>How about doing a system that simply scans an NRIC, and after that asks for a numeric password? This system will check the NRIC&nbsp;against a database of current members. For non members, they need to pay say $15 per entry to the system that can taken in cash.... or even do some electronic transactions.</p>
+<p>&nbsp;</p>
+<p>How about checking out <a target="_blank" href="http://hackerspaces.org/wiki/Doorlock">the solutions at hackerspaces.org</a>?</p>
+<p>&nbsp;</p>
+<p>Ok, here's a (modified) proposal:</p>
+<p>&nbsp;</p>
+<p>1 arduno or equivalent with a keypad to act as usb interface for the laptop driving the relay driving the magnetic lock, and also a failsafe if the laptop freezes.&nbsp; The arduno would have a single keycode not generally known and would not be used as the day-to-day ingress means.&nbsp; The keypad may be put in a slightly inconvenient spot.</p>
+<p>&nbsp;</p>
+<p>1 old laptop with an external USB fingerprint reader or a&nbsp; Thinkpad from amongst the following models:</p>
+<p>&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<th>Thinkpad Models</th>
+<th>Reader</th>
+<th><a href="http://www.thinkwiki.org/wiki/Integrated_Fingerprint_Reader#" style="text-decoration: underline ! important; position: static;" class="kLink" target="undefined" id="KonaLink0" name="KonaLink0"><font color="blue" style="color: blue ! important; font-family: sans-serif; font-weight: bold; font-size: 12.7px; position: static;"><span style="color: blue ! important; font-family: sans-serif; font-weight: bold; font-size: 12.7px; position: static;" class="kLink">Software</span></font></a></th>
+</tr>
+<tr>
+<td>T42(p) T43(p) T60(p) T61(p) R60 X41 X60s Z61(t/p/m)</td>
+<td><a rel="nofollow" title="http://reactivated.net/fprint/wiki/Upekts" class="external text" href="http://reactivated.net/fprint/wiki/Upekts">UPEK</a></td>
+<td>thinkfinger or fprint</td>
+</tr>
+<tr>
+<td>V100 V200</td>
+<td><a rel="nofollow" title="http://reactivated.net/fprint/wiki/Aes1610" class="external text" href="http://reactivated.net/fprint/wiki/Aes1610">Authentec AES1610</a></td>
+<td>fprint</td>
+</tr>
+<tr>
+<td>N100 N200</td>
+<td><a rel="nofollow" title="http://reactivated.net/fprint/wiki/Aes2501" class="external text" href="http://reactivated.net/fprint/wiki/Aes2501">Authentec AES2501</a></td>
+<td>fprint</td>
+</tr>
+<tr>
+<td>R61</td>
+<td><a rel="nofollow" title="http://www.reactivated.net/fprint/wiki/Upeksonly" class="external text" href="http://www.reactivated.net/fprint/wiki/Upeksonly">Upeksonly</a></td>
+<td>fprint</td>
+</tr>
+</tbody>
+</table>
+<p><a href="http://www.thinkwiki.org/wiki/Integrated_Fingerprint_Reader">http://www.thinkwiki.org/wiki/Integrated_Fingerprint_Reader</a></p>
+<p>&nbsp;</p>
+<p>running ubuntu, and the software driver listed above.&nbsp; I&nbsp;have a dell latitude that is no longer suitable for running on battery for any length of time that I can donate.&nbsp; I will bring on Saturday.</p>
+<p>&nbsp;</p>
+<p>Someone would have to write the actuall access control system, but they need not start from scratch.&nbsp; Here are two open source projects that look to be useful:</p>
+<p>&nbsp;</p>
+<p><a href="http://sourceforge.net/projects/fvs/">http://sourceforge.net/projects/fvs/</a></p>
+<p>&nbsp;</p>
+<p><a href="http://sourceforge.net/projects/timeattendance/">http://sourceforge.net/projects/timeattendance/</a></p>
+<p>&nbsp;</p>
+<p>Then we have to find a USB or serial driver for a relay to tell the arduno to drive the magnetic door lock.&nbsp; A nice aspect of this approach is that we can hang a webcam or two on this laptop and stream to the web doorway and interrior images.&nbsp; Plus, the door access system also can report "who" is present, but I'd suggest aliases rather than actual names.</p>
+<p>&nbsp;</p>
+<p>Phase 1 would be to assemble the various components so that the software can be developed and tested.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Phase 2 would be to take the thinkpad out of its case, and mount it on the inside of the glass door (after removing the sticker from the old advertising firm).&nbsp; We would have to extend the fingerprint reader so it reaches around the edge of the door and is accessible from outside.</p>
+<p>&nbsp;</p>
+<p>I think we are going to meet on Saturday the 5th at 10 or half past to discuss.&nbsp;</p>
+<p>----------------------------------</p>
+<p>Here's an update:&nbsp; We've purchased the magnetic door plate and spent time looking for an interface control mechanism.&nbsp; There were several keypads in sim lim tower that were purpose-built and look reasonable as a backup to a custom system that is more flexible.&nbsp; One thing tho: most of the stores had 'break glass' emergency egress boxes.&nbsp; It would be great if someone could look up and see if this is a legal requirement in SG, which I suspect it is.</p>
+<p>&nbsp;</p>
+<p>I also bought a laptop with a fingerprint reader in it, but it is so nice that I'm thinking to give it to Max and Jonathan as a xmas presant after installing OSX and W7 on it. &nbsp;So I spent time on Sunday trying to get another laptop on hand functional, and then we can use an external fingerprint reader.&nbsp; If anyone's got an old laptop 1.2G or better speed-wise....</p>
+<p>&nbsp;</p>
+<p>------------------------------------</p>
+<p>In looking for fingerprint readers, I checked ali baba and found quite a number of interesting units that have ethernet access.&nbsp; I've sent off inquires for several of them.&nbsp; For those interested, I'd suggest the search term 'biometric' at alibaba.</p>
+<p>&nbsp;</p>
+<p>-----------------------------------</p>
+<p>&nbsp;</p>
+<p>I&nbsp;got an arduino board that can be used for this project. Found a 9V&nbsp;DC suitable for use with the arduino.</p>
+<p>&nbsp;</p>
+<p>Also tried to rip out a number keypad from a phone. Need a better screwdriver. Shopping for more parts on 12 Dec 10am onwards. Feel free to join in.</p>
+<p>&nbsp;</p>
+<p>Resources:</p>
+<ul>
+<li><a href="http://www.ladyada.net/learn/arduino/">http://www.ladyada.net/learn/arduino/</a></li>
+<li><a href="http://little-scale.blogspot.com/2008/08/how-to-read-keypad-with-arduino.html">http://little-scale.blogspot.com/2008/08/how-to-read-keypad-with-arduino.html</a></li>
+<li><a href="http://www.arduino.cc/playground/Main/KeypadTutorial">http://www.arduino.cc/playground/Main/KeypadTutorial</a></li>
+<li><a href="http://hacknmod.com/hack/arduino-keypad-security-system/">http://hacknmod.com/hack/arduino-keypad-security-system/</a></li>
+</ul>
+<p>&nbsp;</p>
+<p>-----------------------------------</p>
+<p>NEW&nbsp;IDEA!</p>
+<p>&nbsp;</p>
+<p>I was talking with my friend Maynard about the access system and he mentioned an idea that he had had sometime back: used bluetooth pairing to unlock the door.&nbsp; I'd had a beer or two by that time so it took me a while to appreciate the elegance of this solution:</p>
+<p>&nbsp;</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Anytime anyone authorized is within bluetooth distance the door is unlocked so that anyone can walk in (which we want, generally speaking).</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; If someone is alone and does not want to have the door unlocked all they have to do is turn off their bluetooth on their phone.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp; It will produce a friendly atmosphere, and is in character with the HS ethos and the solution may be of interest to other HS's.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp; It is not a mere copy of existing access controls.</p>
+<p>&nbsp;</p>
+<p>Maynard may also be willing to donate an old ThinkPad capable with running linux; I will donate a bluetooth adapter I have on hand.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+</div>
+</body>
+</html><!--  -->
