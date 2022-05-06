@@ -1,4 +1,4 @@
-Sitemap: http://hackerspacesg.pbworks.com/sitemap.xml
+Sitemap: /sitemap.xml
 
 # Public, indexed site.
 User-agent: Googlebot
